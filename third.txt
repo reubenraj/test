@@ -1,1 +1,2 @@
 This is third file
+This is a file from Master
