@@ -1,2 +1,6 @@
 This is third file
+<<<<<<< HEAD
 I have something to edit here and goes to production branch.
+=======
+This is a file from Master
+>>>>>>> f5229be2bcd4607fc2e34bf98887e5be328c8fb6
