@@ -1,4 +1,0 @@
-This is third file
-This is a file from Master
-This is the third line I am adding.
-Adding this line in dev
